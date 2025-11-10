@@ -1,5 +1,6 @@
 #include <iostream>
 //zidan islam
+//New lab Task
 using namespace std;
 
 int main()
